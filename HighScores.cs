@@ -55,7 +55,7 @@ namespace XNAPacMan {
             itemPosition.X = (graphics_.PreferredBackBufferWidth / 2) - 100;
             itemPosition.Y = (graphics_.PreferredBackBufferHeight / 2) + 200;
             spriteBatch_.Draw(selectionArrow_, new Vector2(itemPosition.X - 50, itemPosition.Y), Color.White);
-            spriteBatch_.DrawString(itemFont_, "Regresar", itemPosition, Color.Yellow);
+            spriteBatch_.DrawString(itemFont_, "Back", itemPosition, Color.Yellow);
 
             spriteBatch_.End();
             
