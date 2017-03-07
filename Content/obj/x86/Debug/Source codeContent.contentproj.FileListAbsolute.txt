@@ -1,0 +1,2 @@
+C:\Users\computer\Downloads\XNA Pac Man (2)\XNA Pac Man\Source code\Content\obj\x86\Debug\Source codeContent.contentprojResolveAssemblyReference.cache
+C:\Users\computer\Downloads\PAC-MAN\Source\Content\obj\x86\Debug\Source codeContent.contentprojResolveAssemblyReference.cache

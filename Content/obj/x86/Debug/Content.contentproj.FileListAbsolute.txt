@@ -1,0 +1,2 @@
+H:\RAZOR\Desktop\Source code\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\RAZOR\Desktop\Source code\Content\obj\x86\Debug\Audio\XNAPacManAudio.xml

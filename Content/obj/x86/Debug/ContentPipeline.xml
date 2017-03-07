@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bonus\Apple.png</Source>
+      <Name>bonus\Apple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\bonus\Apple.xnb</Output>
+      <Time>2008-11-25T10:08:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus\Banana.png</Source>
+      <Name>bonus\Banana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\bonus\Banana.xnb</Output>
+      <Time>2008-11-25T14:10:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus\Bell.png</Source>
+      <Name>bonus\Bell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\bonus\Bell.xnb</Output>
+      <Time>2008-11-25T10:12:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus\Cherry.png</Source>
+      <Name>bonus\Cherry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\bonus\Cherry.xnb</Output>
+      <Time>2008-11-25T10:23:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus\Key.png</Source>
+      <Name>bonus\Key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\bonus\Key.xnb</Output>
+      <Time>2008-11-25T10:19:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus\Orange.png</Source>
+      <Name>bonus\Orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\bonus\Orange.xnb</Output>
+      <Time>2008-11-25T10:23:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus\Pear.png</Source>
+      <Name>bonus\Pear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\bonus\Pear.xnb</Output>
+      <Time>2008-11-25T10:28:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus\Pretzel.png</Source>
+      <Name>bonus\Pretzel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\bonus\Pretzel.xnb</Output>
+      <Time>2008-11-25T10:34:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus\Strawberry.png</Source>
+      <Name>bonus\Strawberry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\bonus\Strawberry.xnb</Output>
+      <Time>2008-11-25T10:42:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\BoardFlash.png</Source>
+      <Name>sprites\BoardFlash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\BoardFlash.xnb</Output>
+      <Time>2008-11-24T23:31:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\Crump.png</Source>
+      <Name>sprites\Crump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\Crump.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\DyingSheetNew.png</Source>
+      <Name>sprites\DyingSheetNew</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\DyingSheetNew.xnb</Output>
+      <Time>2008-11-18T08:52:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\GhostBase.png</Source>
+      <Name>sprites\GhostBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\GhostBase.xnb</Output>
+      <Time>2008-11-14T12:08:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\GhostBase2.png</Source>
+      <Name>sprites\GhostBase2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\GhostBase2.xnb</Output>
+      <Time>2008-11-14T12:08:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\GhostEyes.png</Source>
+      <Name>sprites\GhostEyes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\GhostEyes.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\GhostEyesCenter.png</Source>
+      <Name>sprites\GhostEyesCenter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\GhostEyesCenter.xnb</Output>
+      <Time>2008-11-14T12:32:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\PacManEating1.png</Source>
+      <Name>sprites\PacManEating1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\PacManEating1.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\PacManEating2.png</Source>
+      <Name>sprites\PacManEating2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\PacManEating2.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\PacManEating3.png</Source>
+      <Name>sprites\PacManEating3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\PacManEating3.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\PacManEating4.png</Source>
+      <Name>sprites\PacManEating4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\PacManEating4.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\PacManEating5.png</Source>
+      <Name>sprites\PacManEating5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\PacManEating5.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\PacManEating6.png</Source>
+      <Name>sprites\PacManEating6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\PacManEating6.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\PacManEating7.png</Source>
+      <Name>sprites\PacManEating7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\PacManEating7.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\PacManEating8.png</Source>
+      <Name>sprites\PacManEating8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\PacManEating8.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\PacManEating9.png</Source>
+      <Name>sprites\PacManEating9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\PacManEating9.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\PowerPill.png</Source>
+      <Name>sprites\PowerPill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\PowerPill.xnb</Output>
+      <Time>2008-11-24T23:33:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\Selection.png</Source>
+      <Name>sprites\Selection</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\Selection.xnb</Output>
+      <Time>2008-11-06T15:07:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\Title.png</Source>
+      <Name>sprites\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\Title.xnb</Output>
+      <Time>2008-11-06T15:13:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\ExtraLife.png</Source>
+      <Name>sprites\ExtraLife</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\ExtraLife.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\Board.png</Source>
+      <Name>sprites\Board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\Board.xnb</Output>
+      <Time>2008-11-25T11:07:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\GhostChased.png</Source>
+      <Name>sprites\GhostChased</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\sprites\GhostChased.xnb</Output>
+      <Time>2008-11-14T11:42:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuItem.spritefont</Source>
+      <Name>MenuItem</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\MenuItem.xnb</Output>
+      <Time>2008-11-06T15:14:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Score.spritefont</Source>
+      <Name>Score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\Score.xnb</Output>
+      <Time>2008-11-06T20:03:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreEvent.spritefont</Source>
+      <Name>ScoreEvent</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\ScoreEvent.xnb</Output>
+      <Time>2008-11-18T10:51:00-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\RAZOR\Desktop\Source code\Content\</RootDirectory>
+      <LoggerRootDirectory>H:\RAZOR\Desktop\Source code\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\RAZOR\Desktop\Source code\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\RAZOR\Desktop\Source code\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-10-09T23:13:11.3121673-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
