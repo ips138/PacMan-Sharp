@@ -270,10 +270,10 @@ namespace XNAPacMan {
                 spriteBatch_.Draw(xlife_, new Vector2(boardPosition.X + 10 + (20 * i), board_.Height + boardPosition.Y + 10), Color.White);
             }
 
-            spriteBatch_.DrawString(scoreFont_, "PUNTUACION", new Vector2(boardPosition.X + 30, boardPosition.Y - 50), Color.White);
+            spriteBatch_.DrawString(scoreFont_, "SCORE", new Vector2(boardPosition.X + 30, boardPosition.Y - 50), Color.White);
             spriteBatch_.DrawString(scoreFont_, Score.ToString(), new Vector2(boardPosition.X + 30, boardPosition.Y - 30), Color.White);
 
-            spriteBatch_.DrawString(scoreFont_, "NIVEL", new Vector2(boardPosition.X + board_.Width - 80, boardPosition.Y - 50), Color.White);
+            spriteBatch_.DrawString(scoreFont_, "LEVEL", new Vector2(boardPosition.X + board_.Width - 80, boardPosition.Y - 50), Color.White);
             spriteBatch_.DrawString(scoreFont_, Constants.Level.ToString(), new Vector2(boardPosition.X + board_.Width - 80, boardPosition.Y - 30), Color.White);
 
             if (bonusPresent_) {
@@ -297,7 +297,7 @@ namespace XNAPacMan {
             }
 
             if (player_.State == State.Start) {
-                spriteBatch_.DrawString(scoreFont_, "PREPARATE", new Vector2(boardPosition.X + (board_.Width / 2) - 58, boardPosition.Y + 273), Color.Yellow);
+                spriteBatch_.DrawString(scoreFont_, "GET READY!", new Vector2(boardPosition.X + (board_.Width / 2) - 58, boardPosition.Y + 273), Color.Yellow);
             }
             spriteBatch_.End();
         }
