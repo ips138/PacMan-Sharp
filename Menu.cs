@@ -27,10 +27,10 @@ namespace XNAPacMan {
             soundBank_ = (SoundBank)Game.Services.GetService(typeof(SoundBank));
             selection_ = 0;
             if (gameLoop_ == null) {
-                items_ = new string[] { "Play", "Scores", "Exit" };
+                items_ = new string[] { "New Game", "High Scores", "Exit" };
             }
             else {
-                items_ = new string[] { "Continue", "Quit game" };
+                items_ = new string[] { "Resume", "Quit game" };
             }
             menuItem_ = Game.Content.Load<SpriteFont>("MenuItem");
             title_ = Game.Content.Load<Texture2D>("sprites/Title");
@@ -95,13 +95,13 @@ namespace XNAPacMan {
         void menuAction() {
             Game.Components.Remove(this);
             switch (items_[selection_]) {
-                case ("Continue"):
+                case ("Resume"):
                     Game.Components.Add(gameLoop_);
                     break;
-                case ("Play") :
+                case ("New Game") :
                     Game.Components.Add(new GameLoop(Game));
                     break;
-                case ("Scores"):
+                case ("High Scores"):
                     Game.Components.Add(new HighScores(Game));
                     break;
                 case ("Exit"):
